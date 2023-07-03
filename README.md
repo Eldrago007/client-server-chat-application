@@ -1,1 +1,1 @@
-# client-server-chat-application
+Designed and implemented a scalable client-server chat application in C++, showcasing a strong understanding of network protocols, multi-threading, and concurrent programming. Utilized socket programming to enable multiple clients to connect and exchange messages in a collaborative environment, facilitating real-time communication.
